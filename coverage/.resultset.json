@@ -1,0 +1,41 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/proactive-researcher-8324/tic-tac-toe-rb-ruby-apply-000/lib/tic_tac_toe.rb": [
+        1,
+        null,
+        1,
+        5,
+        5,
+        5,
+        5,
+        5,
+        null,
+        null,
+        1,
+        3,
+        3,
+        3,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1601257432
+  }
+}
